@@ -351,6 +351,9 @@ var __BLOCKEDSITES__ = [
   "*.zomro.com",
   
   "*.pornolab.net",
+  "github.com",
+  "*.githubusercontent.com",
+  "*.exp-tas.com",
 ];
 
 var proxy;
