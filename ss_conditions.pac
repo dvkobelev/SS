@@ -356,6 +356,7 @@ var __BLOCKEDSITES__ = [
   "*.111exp-tas.com",
   "*.youtube.com",
   "*.ytimg.com",
+  "*.googlevideo.com",
 ];
 
 var proxy;
