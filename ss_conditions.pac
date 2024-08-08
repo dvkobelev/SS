@@ -354,6 +354,7 @@ var __BLOCKEDSITES__ = [
   "111github.com",
   "*.111githubusercontent.com",
   "*.111exp-tas.com",
+  "*.youtube.com",
 ];
 
 var proxy;
